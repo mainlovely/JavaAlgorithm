@@ -3,6 +3,7 @@ package com.seven.javaalgorithm.sort;
 /**
  * 冒泡排序（BubbleSort）
  * 时间复杂度： 最好情况O(n) 、最坏情况O(n²) 、 平均O(n²)
+ * 每次排序对比，移动量为3个赋值语句
  *
  * 1、有序度(从小到大)：有序元素对：a[i] <= a[j], 如果i < j
  * 2、满有序度：公式: n*(n-1)/2
