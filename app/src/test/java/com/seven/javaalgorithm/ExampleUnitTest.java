@@ -71,4 +71,5 @@ public class ExampleUnitTest {
         int[] num = SelectionSort.selectSort(new int[]{2,1,6,5,3,4}, 6);
         SelectionSort.print(num);
     }
+
 }
